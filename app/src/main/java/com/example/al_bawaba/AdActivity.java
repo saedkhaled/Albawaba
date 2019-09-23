@@ -69,8 +69,6 @@ public class AdActivity extends AppCompatActivity implements PhotoAdapter.OnPhot
                         recyclerViewLinearLayout.setVisibility(View.GONE);
                         break;
                     case 1:
-                        recyclerViewLinearLayout.setVisibility(View.VISIBLE);
-                        break;
                     case 2:
                         recyclerViewLinearLayout.setVisibility(View.VISIBLE);
                         break;
