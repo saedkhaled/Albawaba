@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Al-bawaba</string>
+    <string name="house_photo">house photo</string>
+    <string name="is_empty">قابل للإيجار</string>
+    <string name="pool">مسبح</string>
+    <string name="electric">كهرباء</string>
+    <string name="close_to_town">قريب من البلد</string>
+    <string name="tv">تلفاز</string>
+    <string name="bedrooms">غرف نوم</string>
+    <string name="good_view">اطلالة جميلة</string>
+    <string name="children_pool">مسبح اطفال</string>
+    <string name="water_always_available">توفر الماء بشكل دائم</string>
+    <string name="car_park">مكان لصف السيارة</string>
+    <string name="kitchen">مطبخ</string>
+    <string name="area_example">ادلب, دركوش</string>
+    <string name="available">متاح</string>
+    <string name="background">background</string>
+    <string name="rented">مؤجر</string>
+</resources>
